@@ -3,8 +3,8 @@ package controller
 import (
 	"fmt"
 
-	"github.com/ussidev/bjb/common"
-	"github.com/ussidev/bjb/model"
+	"github.com/ussidev/bsi2/common"
+	"github.com/ussidev/bsi2/model"
 )
 
 var ErrorCodes = map[string]string{

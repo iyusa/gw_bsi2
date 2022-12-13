@@ -3,7 +3,7 @@ package model
 import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // sengaja
-	"github.com/ussidev/permata_trx/common"
+	"github.com/ussidev/bsi2/common"
 )
 
 var authDB *gorm.DB

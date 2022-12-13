@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ussidev/permata_trx/common"
-	"github.com/ussidev/permata_trx/controller"
-	"github.com/ussidev/permata_trx/model"
+	"github.com/ussidev/bsi2/common"
+	"github.com/ussidev/bsi2/controller"
+	"github.com/ussidev/bsi2/model"
 )
 
 func main() {

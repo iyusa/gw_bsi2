@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ussidev/permata_trx/common"
-	"github.com/ussidev/permata_trx/model"
+	"github.com/ussidev/bsi2/common"
+	"github.com/ussidev/bsi2/model"
 )
 
 func AuthMiddleware() gin.HandlerFunc {

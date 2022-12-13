@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/ussidev/bjb/common"
+	"github.com/ussidev/bsi2/common"
 )
 
 // MuamalatLog table
